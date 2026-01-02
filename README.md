@@ -1,27 +1,121 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Full-stack web applications and AI-powered projects like Medico – AI Medical Assistant and APTP (Agricultural Products Trading Platform) using React, Node.js, MongoDB, Python, and Streamlit.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to MERN stack, AI/ML integrations, REST APIs, and real-world problem-solving platforms.<br><br>🆘 I’m looking for help with:<br>Advanced system design, cloud deployment optimizations, and scaling AI applications.<br><br>🌱 I’m currently learning:<br>Advanced MERN stack, FastAPI, LangChain, vector databases, and cloud technologies.<br><br>💬 Ask me about:<br>JavaScript, React, Node.js, MongoDB, Python, Express.js, RESTful APIs, and building end-to-end full-stack applications.<br><br>✨ Fun fact:<br>I write poetry and enjoy paper crafting when I’m not coding — creativity fuels my problem-solving skills 🎨📚
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/siddhigavhane) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qhxDeKxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siddhi-gavhane-1422632b3) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhigavhane03@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddhi1012&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siddhi1012&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi1012&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddhi1012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=siddhi1012&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Siddhi Gavhane 👩‍💻  
+### Full-Stack Developer | AI & Machine Learning Enthusiast | Healthcare & Scalable Web Solutions
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siddhi1012&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+I am a **Full-Stack Developer and AI/ML enthusiast** with strong experience in **Java, JavaScript, Python, React, Node.js**, and **MongoDB**.  
+I specialize in building **responsive web applications, RESTful APIs, and AI-driven solutions**, with a focus on **scalability, performance, and real-world impact**.
+
+🔭 **Currently working on:**  
+AI-powered applications like **Medico – AI Medical Assistant** and scalable full-stack platforms such as **APTP (Agricultural Products Trading Platform)**.
+
+🤝 **Looking to collaborate on:**  
+Open-source projects in **MERN stack**, **AI/ML**, **LLM integrations**, and **problem-solving platforms**.
+
+🌱 **Currently learning:**  
+Advanced **MERN stack**, **FastAPI**, **LangChain**, **Vector Databases**, and **Cloud Deployment**.
+
+💬 **Ask me about:**  
+React, Node.js, Express, MongoDB, Python, REST APIs, AI integration, and full-stack system design.
+
+✨ **Fun fact:**  
+I write poetry and enjoy paper crafting — creativity helps me think differently while solving technical problems 🎨📚
+
+---
+
+## 📄 Featured Medium Article
+🔍 **Breast Cancer Prediction Using Machine Learning**  
+A healthcare-focused ML project aimed at **early diagnosis** using data preprocessing, feature engineering, and model evaluation techniques.
+
+👉 **Read my Medium article:**  
+https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5
+
+---
+
+## 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+(https://discord.gg/qhxDeKxn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/siddhi-gavhane-1422632b3)
+[![📄 Read My ML Article](https://img.shields.io/badge/📄%20Read%20My%20ML%20Article-black?style=for-the-badge&logo=medium&logoColor=white)]
+(https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+(mailto:siddhigavhane03@gmail.com)
+
+---
+
+## 🤖 AI / Machine Learning Expertise
+- Developed **ML models for healthcare diagnosis** with ~95% accuracy
+- Hands-on experience in **data preprocessing, feature engineering, and model evaluation**
+- Built **LLM-powered applications** using **LangChain + Pinecone**
+- Implemented **PDF-based document retrieval** with vector databases
+- Deployed AI applications on **Streamlit Cloud** for real-time inference
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Medico – AI Medical Assistant
+**Tech Stack:** Python, Streamlit, LangChain, Pinecone, FastAPI  
+- AI-driven assistant answering **100+ health-related queries**
+- Integrated **PDF upload & vector-based retrieval**, improving access speed by **40%**
+- Deployed on Streamlit Cloud with **~95% accuracy**
+
+🔗 Live Demo: https://medicalassistants.streamlit.app/
+
+---
+
+### 🌾 APTP – Agricultural Products Trading Platform
+**Tech Stack:** React, Node.js, Express, MongoDB  
+- Built a full-stack platform enabling **direct farmer-to-buyer trading**
+- Reduced intermediary costs by **20–30%**
+- Designed **secure authentication & role-based access**
+- Handled **1000+ user interactions/day** with optimized APIs
+- Achieved **99.9% uptime** after cloud deployment
+
+---
+
+## 🎓 Education
+- **MSc (Computer Science)** — Indira College of Commerce & Science, Pune *(2024–2026, Pursuing)*  
+- **BSc (Computer Science)** — Sangamner College *(2021–2024)* — **89.05%**
+- **HSC (12th)** — Shramik Junior College — **83.67%**
+- **SSC (10th)** — Sahyadri School — **83.80%**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, Python, JavaScript, HTML, CSS, EJS  
+**Frameworks:** React, Node.js, Express, FastAPI, Tailwind, Bootstrap  
+**Databases:** MongoDB, MySQL  
+**AI Tools:** LangChain, Pinecone, Streamlit  
+**Tools:** Git/GitHub, VS Code, Eclipse, Jupyter Notebook  
+**Deployment:** Streamlit Cloud, Netlify  
+**OS:** Windows, Linux (openSUSE)
+
+---
+
+## 📜 Certifications
+- Amdocs CSR – Corporate Employability Program (2025)
+- Python Programming – Udemy (2024)
+- Cloud Computing Certificate (2025)
+- MERN Stack Certificate (2025)
+
+---
+
+## 🏆 Awards & Achievements
+- Presented Research Paper — **9th Student Conference (2025)**
+- Student Research Project Competition (2022)
+- College-Level Project Exhibition (2022)
+- Avishkar Project Competition (2022)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=siddhi1012&theme=dark&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=siddhi1012&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi1012&theme=dark&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=siddhi1012&icon=0&color=0)](https://visitcount.itsvg.in)
