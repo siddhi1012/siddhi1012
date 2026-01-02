@@ -34,10 +34,11 @@ https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learn
 ---
 
 ## 🌐 Socials
-[Discord](https://discord.gg/qhxDeKxn) | 
-[LinkedIn](https://www.linkedin.com/in/siddhi-gavhane-1422632b3) | 
-[Read My ML Article](https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5) | 
-[Email Me](mailto:siddhigavhane03@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/qhxDeKxn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-gavhane-1422632b3)
+[![Read My ML Article](https://img.shields.io/badge/ML%20Article-FF6F00?logo=medium&logoColor=white)](https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhigavhane03@gmail.com)
+
 
 ---
 
