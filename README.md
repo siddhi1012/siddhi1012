@@ -1,4 +1,4 @@
-# <h1 align="center">👩‍💻 Hello, I'm Siddhi!</h1>
+# <h1 align="center">👩‍💻 Hello, I'm Siddhi Gavhane!</h1>
 ### Full-Stack Developer | AI & Machine Learning Enthusiast | Healthcare & Real-World AI Projects
 
 ---
