@@ -1,4 +1,4 @@
-# Hello,I'm Siddhi Gavhane 
+# I'm Siddhi Gavhane 
 ### Full-Stack Developer | AI & Machine Learning Enthusiast | Healthcare & Real-World AI Projects
 
 ---
