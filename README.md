@@ -1,106 +1,72 @@
 # Siddhi Gavhane 👩‍💻  
-### Full-Stack Developer | AI & Machine Learning Enthusiast | Healthcare & Scalable Web Solutions
+### Full-Stack Developer | AI & Machine Learning Enthusiast | Healthcare & Real-World AI Projects
 
 ---
 
 ## 💫 About Me
-I am a **Full-Stack Developer and AI/ML enthusiast** with strong experience in **Java, JavaScript, Python, React, Node.js**, and **MongoDB**.  
-I specialize in building **responsive web applications, RESTful APIs, and AI-driven solutions**, with a focus on **scalability, performance, and real-world impact**.
+🔭 **I’m currently working on:**  
+Full-stack web applications and AI-powered projects like **Medico – AI Medical Assistant** and **APTP (Agricultural Products Trading Platform)** using **React, Node.js, MongoDB, Python, Streamlit**, and **LLMs**.
 
-🔭 **Currently working on:**  
-AI-powered applications like **Medico – AI Medical Assistant** and scalable full-stack platforms such as **APTP (Agricultural Products Trading Platform)**.
+🤝 **I’m looking to collaborate on:**  
+Open-source projects related to **MERN stack**, **AI/ML integrations**, **REST APIs**, and **real-world problem-solving platforms**.
 
-🤝 **Looking to collaborate on:**  
-Open-source projects in **MERN stack**, **AI/ML**, **LLM integrations**, and **problem-solving platforms**.
+🆘 **I’m looking for help with:**  
+Advanced **system design**, **cloud deployment optimizations**, and **scaling AI applications**.
 
-🌱 **Currently learning:**  
-Advanced **MERN stack**, **FastAPI**, **LangChain**, **Vector Databases**, and **Cloud Deployment**.
+🌱 **I’m currently learning:**  
+Advanced **MERN stack**, **FastAPI**, **LangChain**, **vector databases**, and **cloud technologies**.
 
 💬 **Ask me about:**  
-React, Node.js, Express, MongoDB, Python, REST APIs, AI integration, and full-stack system design.
+JavaScript, React, Node.js, MongoDB, Python, Express.js, RESTful APIs, and building end-to-end full-stack applications.
 
 ✨ **Fun fact:**  
-I write poetry and enjoy paper crafting — creativity helps me think differently while solving technical problems 🎨📚
+I write poetry and enjoy paper crafting when I’m not coding — creativity fuels my problem-solving skills 🎨📚
 
 ---
 
-## 📄 Featured Medium Article
+## 📄 Featured Article
 🔍 **Breast Cancer Prediction Using Machine Learning**  
-A healthcare-focused ML project aimed at **early diagnosis** using data preprocessing, feature engineering, and model evaluation techniques.
+A healthcare-focused ML project aimed at early diagnosis using data preprocessing, feature engineering, and model evaluation.
 
-👉 **Read my Medium article:**  
+👉 **Read here:**  
 https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5
 
 ---
 
-## 🌐 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qhxDeKxn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siddhi-gavhane-1422632b3) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhigavhane03@gmail.com)
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]
+(https://discord.gg/qhxDeKxn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/siddhi-gavhane-1422632b3)
+[![Read My ML Article](https://img.shields.io/badge/📄%20Read%20My%20ML%20Article-black?style=for-the-badge&logo=medium&logoColor=white)]
+(https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learning-a-step-towards-early-diagnosis-0b71518c82e5)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+(mailto:siddhigavhane03@gmail.com)
 
 ---
 
-## 🤖 AI / Machine Learning Expertise
-- Developed **ML models for healthcare diagnosis** with ~95% accuracy
-- Hands-on experience in **data preprocessing, feature engineering, and model evaluation**
-- Built **LLM-powered applications** using **LangChain + Pinecone**
-- Implemented **PDF-based document retrieval** with vector databases
-- Deployed AI applications on **Streamlit Cloud** for real-time inference
+## 🤖 AI / ML Focus
+- Built **machine learning models for healthcare diagnosis**
+- Experience with **data preprocessing, feature engineering, and model evaluation**
+- Integrated **LLMs with vector databases (Pinecone)** for intelligent document retrieval
+- Developed **AI-powered assistants** using **LangChain & FastAPI**
+- Deployed ML applications on **Streamlit Cloud** for real-time inference
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 Medico – AI Medical Assistant
-**Tech Stack:** Python, Streamlit, LangChain, Pinecone, FastAPI  
-- AI-driven assistant answering **100+ health-related queries**
-- Integrated **PDF upload & vector-based retrieval**, improving access speed by **40%**
-- Deployed on Streamlit Cloud with **~95% accuracy**
-
-🔗 Live Demo: https://medicalassistants.streamlit.app/
-
----
-
-### 🌾 APTP – Agricultural Products Trading Platform
-**Tech Stack:** React, Node.js, Express, MongoDB  
-- Built a full-stack platform enabling **direct farmer-to-buyer trading**
-- Reduced intermediary costs by **20–30%**
-- Designed **secure authentication & role-based access**
-- Handled **1000+ user interactions/day** with optimized APIs
-- Achieved **99.9% uptime** after cloud deployment
-
----
-
-## 🎓 Education
-- **MSc (Computer Science)** — Indira College of Commerce & Science, Pune *(2024–2026, Pursuing)*  
-- **BSc (Computer Science)** — Sangamner College *(2021–2024)* — **89.05%**
-- **HSC (12th)** — Shramik Junior College — **83.67%**
-- **SSC (10th)** — Sahyadri School — **83.80%**
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript, HTML, CSS, EJS  
-**Frameworks:** React, Node.js, Express, FastAPI, Tailwind, Bootstrap  
-**Databases:** MongoDB, MySQL  
-**AI Tools:** LangChain, Pinecone, Streamlit  
-**Tools:** Git/GitHub, VS Code, Eclipse, Jupyter Notebook  
-**Deployment:** Streamlit Cloud, Netlify  
-**OS:** Windows, Linux (openSUSE)
-
----
-
-## 📜 Certifications
-- Amdocs CSR – Corporate Employability Program (2025)
-- Python Programming – Udemy (2024)
-- Cloud Computing Certificate (2025)
-- MERN Stack Certificate (2025)
-
----
-
-## 🏆 Awards & Achievements
-- Presented Research Paper — **9th Student Conference (2025)**
-- Student Research Project Competition (2022)
-- College-Level Project Exhibition (2022)
-- Avishkar Project Competition (2022)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -108,6 +74,16 @@ https://medium.com/@siddhigavhane80/breast-cancer-prediction-using-machine-learn
 ![](https://github-readme-stats.vercel.app/api?username=siddhi1012&theme=dark&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=siddhi1012&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi1012&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddhi1012&theme=radical&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
