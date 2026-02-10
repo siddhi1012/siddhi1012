@@ -17,7 +17,7 @@ Advanced **system design**, **cloud deployment optimizations**, and **scaling AI
 Advanced **MERN stack**, **FastAPI**, **LangChain**, **vector databases**, and **cloud technologies**.
 
 💬 **Ask me about:**  
-JavaScript, React, Node.js, MongoDB, Python, Express.js, RESTful APIs, and building end-to-end full-stack applications.
+JavaScript, React, Node.js, MongoDB, Python, Express.js, RESTful APIs, EJS, and building end-to-end full-stack applications.
 
 ✨ **Fun fact:**  
 I write poetry and enjoy paper crafting when I’m not coding — creativity fuels my problem-solving skills 🎨📚
